@@ -1,0 +1,13 @@
+﻿生成启动时间为 2019/11/1 9:56:05。
+     1>项目“E:\剑指offer\STL源码练习\第一章\第一章.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt FirstCourse.cpp
+         FirstCourse.cpp
+       Lib:
+         D:\VS2013\VC\bin\Lib.exe /OUT:"E:\剑指offer\STL源码练习\Debug\第一章.lib" /NOLOGO Debug\FirstCourse.obj
+         第一章.vcxproj -> E:\剑指offer\STL源码练习\Debug\第一章.lib
+     1>已完成生成项目“E:\剑指offer\STL源码练习\第一章\第一章.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.89

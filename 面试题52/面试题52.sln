@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "面试题52", "面试题52\面试题52.vcxproj", "{D1846EE3-9877-40BE-8726-8C92930DB752}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1846EE3-9877-40BE-8726-8C92930DB752}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D1846EE3-9877-40BE-8726-8C92930DB752}.Debug|Win32.Build.0 = Debug|Win32
+		{D1846EE3-9877-40BE-8726-8C92930DB752}.Release|Win32.ActiveCfg = Release|Win32
+		{D1846EE3-9877-40BE-8726-8C92930DB752}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
